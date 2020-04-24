@@ -10,7 +10,7 @@ function [Amat,bvec,cvec,Kcone,info] = ctc_aux( c, A, lb, ub)
 % free variables.
 
 % Author: Richard Y Zhang <ryz@illinois.edu>
-% Date:   August 8th, 2020
+% Date:   August 8th, 2018
 % Reference: R.Y. Zhang, J. Lavaei, "Sparse Semidefinite Programs with 
 %            Guaranteed Near-Linear Time Complexity via Dualized Clique 
 %            Tree Conversion", https://arxiv.org/abs/1710.03475
