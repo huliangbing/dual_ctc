@@ -21,17 +21,17 @@ This code is provided under the BSD 2-Clause, Copyright 2020 to [Richard Y. Zhan
 ### Citation
 
 The journal version is currently under minor revisions and should be published soon. 
-'''
+```
 @article{zhang2017sparse,
   title={Sparse semidefinite programs with guaranteed near-linear time complexity via dualized clique tree conversion},
   author={Zhang, Richard Y and Lavaei, Javad},
   journal={arXiv preprint arXiv:1710.03475},
   year={2017}
 }
-'''
+```
 
 An earlier, conference version of this paper was published at IEEE CDC 2018.
-'''
+```
 @inproceedings{zhang2018sparse,
   title={Sparse semidefinite programs with near-linear time complexity},
   author={Zhang, Richard Y and Lavaei, Javad},
@@ -40,4 +40,4 @@ An earlier, conference version of this paper was published at IEEE CDC 2018.
   year={2018},
   organization={IEEE}
 }
-'''
+```
