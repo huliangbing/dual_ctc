@@ -20,7 +20,7 @@ This code is provided under the BSD 2-Clause, Copyright 2020 to [Richard Y. Zhan
 
 ### Citation
 
-The journal version is currently under minor revisions and should be published soon. 
+The journal version has been accepted for publication at [Mathematical Programming](https://www.springer.com/journal/10107). 
 ```
 @article{zhang2017sparse,
   title={Sparse semidefinite programs with guaranteed near-linear time complexity via dualized clique tree conversion},
@@ -30,7 +30,7 @@ The journal version is currently under minor revisions and should be published s
 }
 ```
 
-An earlier, conference version of this paper was published at IEEE CDC 2018.
+An earlier, conference version of this paper was published at [IEEE CDC 2018](https://doi.org/10.1109/CDC.2018.8619478).
 ```
 @inproceedings{zhang2018sparse,
   title={Sparse semidefinite programs with near-linear time complexity},
