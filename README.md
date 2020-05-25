@@ -20,13 +20,17 @@ This code is provided under the BSD 2-Clause, Copyright 2020 to [Richard Y. Zhan
 
 ### Citation
 
-The journal version has been accepted for publication at [Mathematical Programming](https://www.springer.com/journal/10107). 
+The journal version is published at [Mathematical Programming](https://doi.org/10.1007/s10107-020-01516-y). 
 ```
-@article{zhang2017sparse,
+@article{zhang2020sparse,
   title={Sparse semidefinite programs with guaranteed near-linear time complexity via dualized clique tree conversion},
   author={Zhang, Richard Y and Lavaei, Javad},
-  journal={arXiv preprint arXiv:1710.03475},
-  year={2017}
+  journal={Mathematical Programming},
+  publisher = {Springer Science and Business Media {LLC}},
+  url={https://doi.org/10.1007/s10107-020-01516-y},
+  doi={10.1007/s10107-020-01516-y},
+  month = may,
+  year={2020}
 }
 ```
 
@@ -39,5 +43,15 @@ An earlier, conference version of this paper was published at [IEEE CDC 2018](ht
   pages={1624--1631},
   year={2018},
   organization={IEEE}
+}
+```
+
+The original arxiv preprint dates back to 2017.
+```
+@article{zhang2017sparse,
+  title={Sparse semidefinite programs with guaranteed near-linear time complexity via dualized clique tree conversion},
+  author={Zhang, Richard Y and Lavaei, Javad},
+  journal={arXiv preprint arXiv:1710.03475},
+  year={2017}
 }
 ```
