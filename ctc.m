@@ -16,7 +16,7 @@ function [Amat,bvec,cvec,Kcone,info] = ctc( c, A, lb, ub, dualize)
 % This program is licenced under the BSD 2-Clause licence,
 % contained in the LICENCE file in this directory.
 
-max_clique_size = 60; % Quit if clique is bigger than this
+max_clique_size = 100; % Quit if clique is bigger than this
 real_embedding  = true; % Embed the Hermitian SDP cone into the real SDP cone?
 verbose = 2;
 tt = tic;

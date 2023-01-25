@@ -1,11 +1,11 @@
-function [ L, invD, p] = recover(y, info )
+function [ L, invD, p] = recover2(y, info )
 %RECOVER Efficiently recover solution of chordal converted problem
 
 % Author: Richard Y Zhang <ryz@illinois.edu>
 % Date:   August 8th, 2020
 % Reference: R.Y. Zhang, J. Lavaei, "Sparse Semidefinite Programs with 
 %            Guaranteed Near-Linear Time Complexity via Dualized Clique 
-%            Tree Conversion", https://arxiv.org/abs/1710.03475
+%            Tree C-----onversion", https://arxiv.org/abs/1710.03475
 % This program is licenced under the BSD 2-Clause licence,
 % contained in the LICENCE file in this directory.
 

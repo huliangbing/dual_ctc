@@ -6,8 +6,8 @@
 % This program is licenced under the BSD 2-Clause licence,
 % contained in the LICENCE file in this directory.
 
-load Ybus_39
-%load Ybus_118
+%load Ybus_39
+load Ybus_118
 
 % Set up MAXCUT problem
 % Run experiment
